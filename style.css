@@ -1,0 +1,11 @@
+*{
+  padding :0;
+  margin:0;
+}
+.heart {
+  text-align: center;
+  margin-top: 180px;
+}
+.heart h2 {
+  margin-top: 60px;
+}
